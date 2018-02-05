@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+
+    <string-array name="currency_symbol_list">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CLP</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PKR</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>TWD</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+    <string-array name="currency_names_list">
+        <item>Australian Dollar</item>
+        <item>Brazilian Real</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Chilean Peso</item>
+        <item>Chinese Yuan</item>
+        <item>Czech Koruna</item>
+        <item>Danish Krone</item>
+        <item>Euro </item>
+        <item>British Pound</item>
+        <item>Hong Kong Dollar</item>
+        <item>Hungarian Forint</item>
+        <item>Indonesian Rupiah</item>
+        <item>Israeli New Shekel</item>
+        <item>Indian Rupee</item>
+        <item>Japanese Yen </item>
+        <item>Mexican Peso</item>
+        <item>Malaysian Ringgit</item>
+        <item>Norwegian Krone</item>
+        <item>New Zealand Dollar</item>
+        <item>Philippine Piso</item>
+        <item>Pakistani Rupee</item>
+        <item>Polish Zloty</item>
+        <item>Russian Ruble</item>
+        <item>Swedish Krona</item>
+        <item>Singapore Dollar</item>
+        <item>Thai Baht</item>
+        <item>Turkish Lira</item>
+        <item>New Taiwan Dollar</item>
+        <item>US Dollar</item>
+        <item>South African Rand</item>
+    </string-array>
+</resources>
